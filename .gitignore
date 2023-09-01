@@ -1,0 +1,26 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Jupyter Notebook specific files (if you use Jupyter Notebooks)
+.ipynb_checkpoints/
+
+# Matplotlib cache directory
+.cache/
+
+# Matplotlib saved figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Ignore the data file if it's in the same directory (replace with the actual file name and path if needed)
+zus-data.csv
+
+# JetBrains IDE (PyCharm) specific files
+.idea/
