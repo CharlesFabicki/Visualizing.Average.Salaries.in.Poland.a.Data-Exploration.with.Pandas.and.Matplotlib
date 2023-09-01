@@ -19,8 +19,6 @@ venv/
 *.jpeg
 *.pdf
 
-# Ignore the data file if it's in the same directory (replace with the actual file name and path if needed)
-zus-data.csv
 
 # JetBrains IDE (PyCharm) specific files
 .idea/
