@@ -64,7 +64,7 @@ Copy code
 file_name = "zus-data.csv"  # Replace with the actual file name and path if needed
 data = pd.read_csv(file_name)
 
-###Data Splitting
+### Data Splitting
 The data is split into three time ranges based on the 'Year' column:
 
 1950-1989
