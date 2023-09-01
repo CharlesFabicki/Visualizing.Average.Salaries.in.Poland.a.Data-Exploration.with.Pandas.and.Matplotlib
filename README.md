@@ -1,6 +1,6 @@
 # Visualizing.Average.Salaries.in.Poland.a.Data-Exploration.with.Pandas.and.Matplotlib
 
-## Monthly Salary Analysis
+# Monthly Salary Analysis
 This Python script is designed to load data from a CSV file containing information about monthly salaries over a range of years and create three separate bar charts to visualize the data for different time ranges.
 
 ## Prerequisites
