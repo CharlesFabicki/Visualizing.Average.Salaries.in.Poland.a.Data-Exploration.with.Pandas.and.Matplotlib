@@ -96,5 +96,45 @@ The plt.tight_layout() function ensures proper spacing between subplots, and plt
 
 ## Customize the Script
 Replace "zus-data.csv" with the path to your own CSV file if it's located in a different directory.
+
+# Annualy Salary Analysis
+
+This Python script demonstrates how to perform data visualization using Pandas and Matplotlib. It loads data from a CSV file, splits it into different time ranges, and creates three separate bar charts to visualize annual salary data for various years.
+
+## Prerequisites
+
+Before running the script, ensure you have the following libraries installed:
+
+- Pandas
+- Matplotlib
+
+You can install them using `pip`:
+
+```bash
+pip install pandas matplotlib
+```
+## Usage
+Replace "zus-data.csv" with the actual file name and path of your data CSV file if needed.
+
+## Run the script.
+
+### Charts
+Chart 1: Annual Salary (1950-1989)
+Displays annual salary data for the years 1950 to 1989.
+Value labels are added to the bars for better readability.
+
+Chart 2: Annual Salary (1990-1994)
+Displays annual salary data for the years 1990 to 1994.
+Value labels are added to the bars for better readability.
+The y-axis limit is set to 8 million for better visualization.
+
+Chart 3: Annual Salary (1995-2022)
+Displays annual salary data for the years 1995 to 2022.
+Value labels are added to the bars for better readability.
+The y-axis limit is set to 7,000 for better visualization.
+
+## License
+This project is licensed under License
+
 Customize the chart titles, axis labels, colors, and other parameters as needed.
 Feel free to modify the script to suit your specific data and visualization requirements.
