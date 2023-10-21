@@ -3,6 +3,9 @@
 # Monthly Salary Analysis
 This Python script is designed to load data from a CSV file containing information about monthly salaries over a range of years and create three separate bar charts to visualize the data for different time ranges.
 
+## Screenshot
+![Monthly Salary](https://github.com/CharlesFabicki/Visualizing.Average.Salaries.in.Poland.a.Data-Exploration.with.Pandas.and.Matplotlib/assets/103677730/c9c571fd-ce6e-471d-877e-9dc2ba1f538b)
+
 ## Prerequisites
 Before running the script, ensure that you have the following dependencies installed:
 
@@ -90,6 +93,9 @@ Replace "zus-data.csv" with the path to your own CSV file if it's located in a d
 # Annualy Salary Analysis
 
 This Python script demonstrates how to perform data visualization using Pandas and Matplotlib. It loads data from a CSV file, splits it into different time ranges, and creates three separate bar charts to visualize annual salary data for various years.
+
+## Screenshot
+![Annual Salary](https://github.com/CharlesFabicki/Visualizing.Average.Salaries.in.Poland.a.Data-Exploration.with.Pandas.and.Matplotlib/assets/103677730/aa6933f0-4d8b-426d-be20-73ed751fe2c7)
 
 ## Prerequisites
 
