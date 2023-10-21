@@ -24,7 +24,7 @@ python Monthly Salary.py
 The script will generate three bar charts showing the monthly salary data for the specified time ranges.
 
 ### Script Explanation
-### Loading Data
+Loading Data
 The script uses the Pandas library to load data from the specified CSV file into a DataFrame.
 
 file_name = "zus-data.csv"  # Replace with the actual file name and path if needed
@@ -44,16 +44,6 @@ You can install these libraries using pip:
 ```bash
 pip install pandas matplotlib
 ```
-## Usage
-Clone this repository or download the script.
-Place your CSV data file (replace "zus-data.csv" in the script) in the same directory as the script or provide the correct file path.
-
-Run the script using Python:
-
-```bash
-python Monthly Salary.py
-```
-### The script will generate three bar charts showing the monthly salary data for the specified time ranges.
 
 ### Script Explanation
 Loading Data
@@ -114,6 +104,17 @@ You can install them using `pip`:
 pip install pandas matplotlib
 ```
 ## Usage
+
+Clone this repository or download the script.
+
+Place your CSV data file (replace "zus-data.csv" in the script) in the same directory as the script or provide the correct file path.
+
+Run the script using Python:
+
+```bash
+python Annual Salary.py
+```
+### The script will generate three bar charts showing the monthly salary data for the specified time ranges.
 Replace "zus-data.csv" with the actual file name and path of your data CSV file if needed.
 
 ## Run the script.
