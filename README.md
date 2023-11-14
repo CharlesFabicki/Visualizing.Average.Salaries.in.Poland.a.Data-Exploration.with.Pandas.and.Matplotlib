@@ -33,30 +33,6 @@ The script uses the Pandas library to load data from the specified CSV file into
 file_name = "zus-data.csv"  # Replace with the actual file name and path if needed
 data = pd.read_csv(file_name)
 
-### Monthly Salary Analysis
-This Python script is designed to load data from a CSV file containing information about monthly salaries over a range of years and create three separate bar charts to visualize the data for different time ranges.
-
-### Prerequisites
-Before running the script, ensure that you have the following dependencies installed:
-
-Python 3.x
-Pandas library
-Matplotlib library
-You can install these libraries using pip:
-
-```bash
-pip install pandas matplotlib
-```
-
-### Script Explanation
-Loading Data
-The script uses the Pandas library to load data from the specified CSV file into a DataFrame.
-
-python
-Copy code
-file_name = "zus-data.csv"  # Replace with the actual file name and path if needed
-data = pd.read_csv(file_name)
-
 ### Data Splitting
 The data is split into three time ranges based on the 'Year' column:
 
